@@ -6,11 +6,22 @@ A curated list of banking technologies and resources
 - [BBVA Engineering](https://github.com/BBVAEngineering) - Ember, WebComponents, Javascript, Typescript
 - [ING-Bank](https://github.com/ing-bank) - Lion Design System, Baker Microservice Flow Orchestrator, Python Pandas
 - [Credit Suisse](https://github.com/CreditSuisse) - Hackathon2019
+- [Capital One](https://github.com/capitalone) - Datascience, Python
 
 # Engineering Blogs
 
 - [ING Blog](https://medium.com/ing-blog)
 - [Julius Baer Engineering](https://medium.com/juliusbaerengineering)
+- [Macquarie Engineering Blog](https://macquarieengineeringblog.medium.com/)
+- [Capitalone Tech](https://www.capitalone.com/tech/)
+- [Goldman Sachs Developer Blog](https://developer.gs.com/blog/posts)
+- [Stripe Engineering](https://stripe.com/blog/engineering)
+- [JPM Tech Blog](https://www.jpmorgan.com/technology/technology-blog)
+- [Solaris Blog Engineering](https://www.solarisgroup.com/blog/tag/engineering/)
+
+# Strategy & Trends
+
+- [Accenture Banking Blog](https://bankingblog.accenture.com/)
 
 # Banking Systems
 
