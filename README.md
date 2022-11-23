@@ -18,6 +18,8 @@ A curated list of banking technologies and resources
 - [Stripe Engineering](https://stripe.com/blog/engineering)
 - [JPM Tech Blog](https://www.jpmorgan.com/technology/technology-blog)
 - [Solaris Blog Engineering](https://www.solarisgroup.com/blog/tag/engineering/)
+- [Monzo](https://monzo.com/blog/technology)
+- [DBS](https://medium.com/dbs-tech-blog)
 
 # Strategy & Trends
 
