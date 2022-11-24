@@ -38,3 +38,19 @@ A curated list of banking technologies and resources
 - [Saxo Data Mesh](https://blog.datahubproject.io/enabling-data-discovery-in-a-data-mesh-the-saxo-journey-451b06969c8f) - Enabling Data Discovery in a Data Mesh: The Saxo Journey
 - [BJB DevCloud](https://www.slideshare.net/batbern/why-did-the-shiftleft-end-up-in-the-cloud-for-bank-julius-baer) - Why did the shift-left end up in the cloud for Bank Julius Baer?
 - [ING Agile Transformation](https://medium.com/@yavuzselcan/highlights-of-the-ings-agile-transformation-journey-59020f1c5e0a) - Highlights of the ING’s Agile Transformation Journey
+- 
+# Standards
+
+### list of all finance related standards (https://www.iso.org/ics/03.060/x/)
+
+- [ISO20022](https://www.iso20022.org/) - Universal financial industry message scheme
+- [EBICS](https://www.ebics.org/en/home) - Electronic Banking Internet Communication Standard
+- [FIX](https://www.fixtrading.org/standards/) - Financial Information eXchange
+- [ISO4217](https://www.iso.org/iso-4217-currency-codes.html) - Currency codes
+- [fpml](https://www.fpml.org/) - Financial products Markup Language
+- [ISO8583](https://www.iso.org/standard/15871.html) - Financial transaction card originated messages) 
+- [ISO24165](https://www.iso.org/standard/80601.html) - Digital token identifier (DTI) — Registration, assignment and structure
+- [ISO10962](https://www.iso.org/standard/32835.html) - Securities and related financial instruments
+
+
+
