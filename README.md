@@ -24,6 +24,7 @@ A curated list of banking technologies and resources
 # Strategy & Trends
 
 - [Accenture Banking Blog](https://bankingblog.accenture.com/)
+- [McKinsey Tech Forward](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/tech-forward)
 
 # Banking Systems
 
