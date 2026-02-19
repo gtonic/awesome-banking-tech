@@ -52,6 +52,7 @@ A curated list of banking technologies and resources
 - [ISO8583](https://www.iso.org/standard/15871.html) - Financial transaction card originated messages) 
 - [ISO24165](https://www.iso.org/standard/80601.html) - Digital token identifier (DTI) — Registration, assignment and structure
 - [ISO10962](https://www.iso.org/standard/32835.html) - Securities and related financial instruments
+- [IsoFluent](https://isofluent.com) - Visual ISO 8583 and EMV debugger for protocol inspection and transaction simulation.
 
 
 
