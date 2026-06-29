@@ -33,6 +33,7 @@ A curated list of banking technologies and resources
 - [Crealogix](https://crealogix.com/)     
 - [Mbanq](https://www.mbanq.com/)
 - [Solaris](https://www.solarisgroup.com/) BaaS
+- [open-banking.io](https://open-banking.io) - PSD2-compliant open banking API for account aggregation and bank data access across EU/UK banks
 
 # Technology/Topics
 
