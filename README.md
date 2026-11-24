@@ -52,6 +52,8 @@ A curated list of banking technologies and resources
 - [ISO8583](https://www.iso.org/standard/15871.html) - Financial transaction card originated messages) 
 - [ISO24165](https://www.iso.org/standard/80601.html) - Digital token identifier (DTI) — Registration, assignment and structure
 - [ISO10962](https://www.iso.org/standard/32835.html) - Securities and related financial instruments
+- [Anatomy of a Payment](https://digbijoylabs.github.io/anatomy-of-a-payment/) - Interactive Apache-2.0 payment-rail workbench and [CC-BY-4.0 paper](https://doi.org/10.5281/zenodo.24444210) covering authorization, clearing, settlement finality, ISO 20022, and double-entry ledger invariants.
+
 
 
 
